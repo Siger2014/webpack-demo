@@ -13,7 +13,7 @@ export default class Hello extends Component {
         return (
             <div className="bg">
                 {/*注释*/}
-                <h1>黑马4期{this.print()}</h1>
+                <h1>hello world{this.print()}</h1>
                 <img src="" alt=""/>
             </div>
         )
